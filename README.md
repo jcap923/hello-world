@@ -1,2 +1,3 @@
 # hello-world
-My Hello World example.
+Hello World.
+My name is Juan Capistrano
