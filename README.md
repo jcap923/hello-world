@@ -1,3 +1,5 @@
 # hello-world
-Hello World.
-My name is Juan Capistrano
+
+My first repository on GitHub
+
+I love coffee and muffins.
